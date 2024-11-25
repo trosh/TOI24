@@ -110,7 +110,7 @@ commits et le reflog !
    (ex. dépôt sur le FS, GitHub, …)
 
 2. Quelles commandes utilisez-vous pour envoyer le travail dans le dépôt distant ?
-   (toutes les branches si possible, `master` et `color_support` sinon.)
+   (toutes les branches si possible : `master` et `color_support`.)
 
 3. Gardez bien précieusement ce dépot
 
