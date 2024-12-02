@@ -89,9 +89,19 @@ c.  Utilisez GDB pour afficher la valeur de `sum` à chaque coup de boucle.
 
 d.  Expliquez le bug et corrigez-le ; donnez la valeur finale de `sum`.
 
-## Exercice 5 : Quand ça dépasse
+## Exercice 5 : Condition d'arrêt
 
-Le code de `ex5/` contient une fonction vulnérable à un overflow.
+Le code de `ex5/` contient une erreur qui mène à un crash.
+
+a.  Utilisez GDB pour trouver l'erreur.
+
+b.  Quelle est l'erreur ?
+
+c.  Corrigez l'erreur.
+
+## Exercice 6 : Quand ça dépasse
+
+Le code de `ex6/` contient une fonction vulnérable à un overflow.
 
 a.  Expliquez pourquoi ce code est vulnérable
 
@@ -101,16 +111,6 @@ c.  Comment pouvez-vous déclencher l'erreur ?
 
 d.  Que devez-vous taper dans le buffer pour changer la valeur de la variable
     `password_is_good` afin d'afficher « Vous avez cassé le MDP ! » ?
-
-## Exercice 6 : Condition d'arrêt
-
-Le code de `ex6/` contient une erreur qui mène à un crash.
-
-a.  Utilisez GDB pour trouver l'erreur.
-
-b.  Quelle est l'erreur ?
-
-c.  Corrigez l'erreur.
 
 ## Exercice 7 : Ça n'avance plus ?
 
