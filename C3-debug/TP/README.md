@@ -1,8 +1,12 @@
 ---
 title: TOI — TP Débogage (noté)
-date: Rendu avant le 2024-12-XXT20:00 à [john.gliksberg@uvsq.fr](mailto:john.gliksberg@uvsq.fr)
+subtitle: |
+    Rendu avant le 2024-12-XXT20:00,
+
+    à [john.gliksberg@uvsq.fr](mailto:john.gliksberg@uvsq.fr)
+    ou [max.hoffer@uvsq.fr](mailto:max.hoffer@uvsq.fr)
 output: pdf_document
-geometry: a4paper,margin=2.5cm
+geometry: a4paper,margin=2.3cm
 fontfamily: fouriernc
 documentclass: extarticle
 fontsize: 12pt
