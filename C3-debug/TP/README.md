@@ -17,7 +17,7 @@ Le travail peut être fait seul ou en binôme.
 
 Récupération des exercices :
 
-    git clone https://github.com/trosh/ATOI24_C3TP_debug.git
+`git clone` [`https://github.com/trosh/ATOI24_C3TP_debug.git`](https://github.com/trosh/ATOI24_C3TP_debug.git)
 
 # Débogage mémoire
 
