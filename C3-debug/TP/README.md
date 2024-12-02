@@ -55,13 +55,13 @@ a.  Expliquer en quoi chacune des fonctions `process_dataXX` est fausse.
 b.  En commentant et décommentant les différentes fonctions (1,2,3), expliquer l'ampleur des
     dégâts et les erreurs rencontrées pour ces trois fonctions :
 
-    i.  `process_data` : plantage ? explication.
+    i.  `process_data1` : plantage ? explication.
 
-    ii. `process_data1` : plantage ? explication.
+    ii. `process_data2` : plantage ? explication.
 
     iii. `process_data3` : plantage ? explication.
 
-c.  Quel outil vous permet de vous prémunir des erreurs de `process_data` ?
+c.  Quel outil vous permet de vous prémunir des erreurs de `process_data1` ?
 
     Inversement, quel autre outil utilisez-vous pour l'erreur de `process_data3` ?
 
