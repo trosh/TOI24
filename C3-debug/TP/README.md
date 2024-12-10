@@ -1,7 +1,7 @@
 ---
 title: TOI — TP Débogage (noté)
 subtitle: |
-    Rendu avant le 2024-12-XXT20:00,
+    Rendu avant le 2024-12-13T20:00,
 
     à [john.gliksberg@uvsq.fr](mailto:john.gliksberg@uvsq.fr)
     ou [max.hoffer@uvsq.fr](mailto:max.hoffer@uvsq.fr)
