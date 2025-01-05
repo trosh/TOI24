@@ -10,6 +10,7 @@ geometry: a4paper,margin=2.3cm
 fontfamily: fouriernc
 documentclass: extarticle
 fontsize: 12pt
+colorlinks: true
 ---
 
 # Travail attendu
