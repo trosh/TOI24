@@ -1,11 +1,9 @@
 ---
 title: TOI — TP Profilage (noté)
 subtitle: |
-    Rendu avant le XXX
-
-    à [john.gliksberg@uvsq.fr](mailto:john.gliksberg@uvsq.fr)
+    Rendu à [john.gliksberg@uvsq.fr](mailto:john.gliksberg@uvsq.fr)
 output: pdf_document
-geometry: a4paper,margin=2.5cm
+geometry: a4paper,margin=2.7cm
 fontfamily: fouriernc
 documentclass: extarticle
 fontsize: 12pt
